@@ -12,7 +12,7 @@ mkdir -p ocaml-ansi/src
 
 (
   cd "$TMP"
-  git clone https://github.com/tmattio/ocaml-ansi.git
+  git clone https://github.com/youngkidwarrior/ocaml-ansi.git
   cd ocaml-ansi
   git checkout $version
 )
