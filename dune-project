@@ -24,7 +24,7 @@
   "\240\159\142\168 Create beautiful interactive command line interface in OCaml.")
  (depends
   (ocaml
-   (>= 4.08.0))
+   (>= 5))
   dune
   uutf
   (odoc :with-doc)))
